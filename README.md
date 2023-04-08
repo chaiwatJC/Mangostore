@@ -1,0 +1,2 @@
+# Mangostore
+for education
